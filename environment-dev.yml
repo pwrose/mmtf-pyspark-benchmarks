@@ -1,4 +1,4 @@
-name: mmtf-pyspark-benchmarks 
+name: mmtf-pyspark-benchmarks-dev 
 
 channels:
   - anaconda
